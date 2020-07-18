@@ -5,6 +5,6 @@ My Role was as a Programmer for the development of Robot.
 
 Results:
 
-1)[straight walking with crossing step](results/VID-20190606-WA0000)
+1)[straight walking with crossing step](results/video1)
 
 Refer the Documentation for the detailed description : [documentation](Rnp_documentation_elex.pdf).
