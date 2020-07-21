@@ -10,7 +10,7 @@ Results:
 ![Alt Text](results/strght-min.gif)
 
 
-[Watch full video here](results/crossing-step.mp4)
+[Watch full video here](results/crossing_step.mp4)
 
 
 
