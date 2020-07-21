@@ -5,7 +5,7 @@ My Role was as a Programmer for the development of Robot.
 
 Results:
 
-1)[straight walking with crossing step](results/video1.mp4)
+1)[Alt text](results/video1.mp4)
 
 
 
