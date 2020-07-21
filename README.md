@@ -5,7 +5,12 @@ My Role was as a Programmer for the development of Robot.
 
 Results:
 
-1)![Alt Text](results/strght-min.gif)
+1)straight walking
+
+![Alt Text](results/strght-min.gif)
+
+
+[Watch full video here](results/crossing-step.mp4)
 
 
 
